@@ -1,0 +1,5 @@
+3 London,New York,Washington,Jacksonville,Sao Paulo,Lagos,Tripoli,Cairo,Istanbul
+2 Chicago,Denver,San Francisco
+1 Atlanta
+
+
