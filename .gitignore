@@ -1,0 +1,8 @@
+__pycache__
+.*
+!/.gitignore
+not_uploaded
+city_logs/.pynb_checkpoints
+city_logs/.DS_store
+game_logs.DS_Store
+
